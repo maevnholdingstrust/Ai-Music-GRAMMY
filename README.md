@@ -1,4 +1,4 @@
-# Ai-Music-GRAMMY
+# Ai-Music-GRAMMY — CRAFT 2.0 Plus
 
 **CRAFT 2.0 Plus** is the upgraded product vision for an AI-native music creation platform focused on idea generation, production refinement, and commercial-readiness scoring.
 
@@ -263,6 +263,8 @@ GitHub Push
 
 ## CRAFT 2.0 Plus Roadmap
 
+This roadmap reflects the refreshed post-2.0 Plus product direction.
+
 ### Near-term
 - Real-time generation updates
 - More advanced prompt templates
@@ -270,7 +272,7 @@ GitHub Push
 - Reusable mastering chains
 
 ### Mid-term
-- GraphQL alongside REST
+- Expanded API experiences beyond the core REST surface
 - Multi-region deployment
 - Model versioning and experimentation support
 - Event-driven architecture expansion
