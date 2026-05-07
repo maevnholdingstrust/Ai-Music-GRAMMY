@@ -279,7 +279,7 @@ This roadmap reflects the refreshed post-2.0 Plus product direction.
 
 ### Long-term
 - Deeper microservice separation
-- Edge-assisted generation
+- Edge computing-assisted generation
 - Collaboration workflows for teams and labels
 - Full release intelligence for market-fit scoring
 
